@@ -1,0 +1,10 @@
+
+data/portfolio/*.json
+data/historical/*.json
+
+*.pyc
+
+.idea
+.venvMovingNeedles
+
+.DS_Store
