@@ -10,4 +10,5 @@ config = {
     'fees': [4.00],
     'update_frequency_sec': 10,
     'history_live_window': 100,
+    'history_tracking_enabled': False,
 }
